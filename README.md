@@ -1,4 +1,4 @@
-# A python file to visualize LiDAR pointcloud bin file using open3d #
+## A python file to visualize LiDAR pointcloud bin file using open3d ##
 **You just need to modify the .reshape function to match the shape of the point cloud!**
 ```
     Things to change to visualize .bin file!
@@ -14,6 +14,6 @@
 ```
 
 ---------------------------------------
-**IN PROGRESS**
-1. ADD origin coordinate
-2. ASSIGN colors to all point clouds based on semantic their labels
+**IN PROGRESS...**
+1. **ADD** origin coordinate
+2. **ASSIGN** colors to all point clouds based on semantic their labels
