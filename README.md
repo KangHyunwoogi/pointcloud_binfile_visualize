@@ -1,5 +1,5 @@
-## A python file to visualize LiDAR pointcloud bin file using open3d ##
-**You just need to modify the bin file path and .reshape function to match the shape of the point cloud!**
+## A python file to visualize LiDAR pointcloud bin/pcd file using open3d ##
+**You just need to modify the bin/pcd file path and .reshape function to match the shape of the point cloud!**
 ```
     Things to change to visualize .bin file!
 
